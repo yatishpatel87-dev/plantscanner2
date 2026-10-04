@@ -1,0 +1,12 @@
+{
+  "name": "🌱 AI Plant Doctor – સ્માર્ટ પાક અને છોડ સહાયક",
+  "description": "ફોટો લો – પાક ઓળખો – સમસ્યા જાણો – યોગ્ય સંભાળ મેળવો. ગુજરાતના ખેડૂતો માટે અદ્યતન AI આધારિત પાક રોગ નિદાન અને ખેતી માર્ગદર્શક એપ્લિકેશન.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
